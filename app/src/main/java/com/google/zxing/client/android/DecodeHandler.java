@@ -17,6 +17,12 @@
 package com.google.zxing.client.android;
 
 import android.graphics.Bitmap;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Looper;
+import android.os.Message;
+import android.util.Log;
+
 import com.google.zxing.BinaryBitmap;
 import com.google.zxing.DecodeHintType;
 import com.google.zxing.MultiFormatReader;
@@ -24,12 +30,6 @@ import com.google.zxing.PlanarYUVLuminanceSource;
 import com.google.zxing.ReaderException;
 import com.google.zxing.Result;
 import com.google.zxing.common.HybridBinarizer;
-
-import android.os.Bundle;
-import android.os.Handler;
-import android.os.Looper;
-import android.os.Message;
-import android.util.Log;
 
 import java.io.ByteArrayOutputStream;
 import java.util.Map;
@@ -75,6 +75,17 @@ final class DecodeHandler extends Handler {
   private void decode(byte[] data, int width, int height) {
     long start = System.currentTimeMillis();
     Result rawResult = null;
+
+    byte[] rotatedData = new byte[data.length];
+    for (int y = 0; y < height; y++) {
+      for (int x = 0; x < width; x++)
+        rotatedData[x * height + height - y - 1] = data[x + y * width];
+    }
+    int tmp = width; // Here we are swapping, that's the difference to #11
+    width = height;
+    height = tmp;
+    data = rotatedData;
+
     PlanarYUVLuminanceSource source = activity.getCameraManager().buildLuminanceSource(data, width, height);
     if (source != null) {
       BinaryBitmap bitmap = new BinaryBitmap(new HybridBinarizer(source));

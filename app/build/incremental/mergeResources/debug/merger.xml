@@ -2,19 +2,19 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res" >
+        <source path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res" >
             <file
                 name="capture"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout-ldpi/capture.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout-ldpi/capture.xml"
                 qualifiers="ldpi"
                 type="layout" />
             <file
                 name="launcher_icon"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/drawable-xhdpi/launcher_icon.png"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/drawable-xhdpi/launcher_icon.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-ko/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-ko/strings.xml"
                 qualifiers="ko" >
                 <string name="preferences_supplemental_title" >검색 상세 정보
                 </string>
@@ -262,7 +262,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-da/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-da/strings.xml"
                 qualifiers="da" >
                 <string name="button_dial" >Ring til nummeret
                 </string>
@@ -510,7 +510,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-nl/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-nl/strings.xml"
                 qualifiers="nl" >
                 <string name="preferences_result_title" >Instellingen voor resultaten
                 </string>
@@ -759,21 +759,21 @@
             </file>
             <file
                 name="capture"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/menu/capture.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/menu/capture.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="history"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/menu/history.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/menu/history.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 name="encode"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/menu/encode.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/menu/encode.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-pt/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-pt/strings.xml"
                 qualifiers="pt" >
                 <string name="preferences_remember_duplicates_summary" >Guardar pesquisas múltiplas do mesmo código de barras no histórico
                 </string>
@@ -1021,7 +1021,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-ja/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-ja/strings.xml"
                 qualifiers="ja" >
                 <string name="button_share_contact" >連絡先を共有
                 </string>
@@ -1270,11 +1270,11 @@
             </file>
             <file
                 name="launcher_icon"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/drawable-hdpi/launcher_icon.png"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/drawable-hdpi/launcher_icon.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-iw/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-iw/strings.xml"
                 qualifiers="iw" >
                 <string name="msg_sbc_snippet_unavailable" >גזיר לא זמין
                 </string>
@@ -1522,7 +1522,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-ro/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-ro/strings.xml"
                 qualifiers="ro" >
                 <string name="result_address_book" >Găsit informații de contact
                 </string>
@@ -1770,7 +1770,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-cs/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-cs/strings.xml"
                 qualifiers="cs" >
                 <string name="msg_intent_failed" >Litujeme, požadovanou aplikaci nelze spustit. Čárový kód je nefunkční.
                 </string>
@@ -2018,7 +2018,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-id/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-id/strings.xml"
                 qualifiers="id" >
                 <string name="result_address_book" >Informasi kontak ditemukan
                 </string>
@@ -2266,7 +2266,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-ca/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-ca/strings.xml"
                 qualifiers="ca" >
                 <string name="preferences_front_light_off" >Inactiu
                 </string>
@@ -2514,7 +2514,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-zh-rCN/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-zh-rCN/strings.xml"
                 qualifiers="zh-rCN" >
                 <string name="result_calendar" >找到日历事件
                 </string>
@@ -2762,7 +2762,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-zh-rTW/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-zh-rTW/strings.xml"
                 qualifiers="zh-rTW" >
                 <string name="preferences_supplemental_summary" >嘗試透過條碼搜尋更多的資訊
                 </string>
@@ -3010,7 +3010,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-hu/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-hu/strings.xml"
                 qualifiers="hu" >
                 <string name="preferences_decode_Data_Matrix_title" >Data Matrix
                 </string>
@@ -3258,7 +3258,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-it/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-it/strings.xml"
                 qualifiers="it" >
                 <string name="preferences_general_title" >Impostazioni generali
                 </string>
@@ -3506,7 +3506,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-el/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-el/strings.xml"
                 qualifiers="el" >
                 <string name="result_geo" >Βρέθηκαν γεωγραφικές συντεταγμένες
                 </string>
@@ -3754,7 +3754,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-sl/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-sl/strings.xml"
                 qualifiers="sl" >
                 <string name="preferences_result_title" >Nastavitve rezultatov branja
                 </string>
@@ -4002,7 +4002,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-ar/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-ar/strings.xml"
                 qualifiers="ar" >
                 <string name="preferences_front_light_off" >غير فعال
                 </string>
@@ -4250,7 +4250,7 @@
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/styles.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -4279,7 +4279,7 @@ wrap_content
                 </style>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/arrays.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/arrays.xml"
                 qualifiers="" >
                 <string-array name="preferences_front_light_values" >
                     <item>
@@ -4403,7 +4403,7 @@ US
                 </string-array>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/ids.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/ids.xml"
                 qualifiers="" >
                 <item
                     name="restart_preview"
@@ -4428,7 +4428,7 @@ US
                     type="id"/>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/themes.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/themes.xml"
                 qualifiers="" >
 
                 <style
@@ -4449,7 +4449,7 @@ true
                 </style>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/colors.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/colors.xml"
                 qualifiers="" >
                 <color name="possible_result_points" >#c0ffbd21
                 </color>
@@ -4475,7 +4475,7 @@ true
                 </color>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/dimens.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="half_padding" >4dip
                 </dimen>
@@ -4483,7 +4483,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="button_email" >Send email
                 </string>
@@ -4731,7 +4731,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-eu/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-eu/strings.xml"
                 qualifiers="eu" >
                 <string name="button_add_calendar" >Gehitu egutegian
                 </string>
@@ -4980,11 +4980,11 @@ true
             </file>
             <file
                 name="beep"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/raw/beep.ogg"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/raw/beep.ogg"
                 qualifiers=""
                 type="raw" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-sv/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-sv/strings.xml"
                 qualifiers="sv" >
                 <string name="result_address_book" >Hittade kontaktinformation
                 </string>
@@ -5232,7 +5232,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-ru/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-ru/strings.xml"
                 qualifiers="ru" >
                 <string name="msg_sbc_failed" >К сожалению, возникла ошибка поиска.
                 </string>
@@ -5480,7 +5480,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-pl/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-pl/strings.xml"
                 qualifiers="pl" >
                 <string name="msg_redirect" >Przekierowanie
                 </string>
@@ -5728,7 +5728,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-hi/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-hi/strings.xml"
                 qualifiers="hi" >
                 <string name="preferences_general_title" >सामान्य सेटिंग्स
                 </string>
@@ -5977,31 +5977,31 @@ true
             </file>
             <file
                 name="share_via_barcode"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/drawable/share_via_barcode.png"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/drawable/share_via_barcode.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="launcher_icon"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/drawable/launcher_icon.png"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/drawable/launcher_icon.png"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="launcher_icon"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/drawable-xxhdpi/launcher_icon.png"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/drawable-xxhdpi/launcher_icon.png"
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
                 name="share"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout-land/share.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout-land/share.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="encode"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout-land/encode.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout-land/encode.xml"
                 qualifiers="land"
                 type="layout" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-fi/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-fi/strings.xml"
                 qualifiers="fi" >
                 <string name="msg_sure" >Oletko varma?
                 </string>
@@ -6249,7 +6249,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-fr/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-fr/strings.xml"
                 qualifiers="fr" >
                 <string name="bookmark_picker_name" >Marque-pages
                 </string>
@@ -6497,7 +6497,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-de/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-de/strings.xml"
                 qualifiers="de" >
                 <string name="contents_sms" >SMS Adresse
                 </string>
@@ -6745,7 +6745,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-tr/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-tr/strings.xml"
                 qualifiers="tr" >
                 <string name="sbc_name" >Google Kitap Arama
                 </string>
@@ -6993,7 +6993,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-bg/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-bg/strings.xml"
                 qualifiers="bg" >
                 <string name="msg_sbc_snippet_unavailable" >Изрезката не е достъпна
                 </string>
@@ -7242,11 +7242,11 @@ true
             </file>
             <file
                 name="preferences"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/xml/preferences.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/xml/preferences.xml"
                 qualifiers=""
                 type="xml" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-zh-rHK/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-zh-rHK/strings.xml"
                 qualifiers="zh-rHK" >
                 <string name="menu_encode_vcard" >使用vCard
                 </string>
@@ -7494,7 +7494,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-sk/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-sk/strings.xml"
                 qualifiers="sk" >
                 <string name="preferences_remember_duplicates_title" >Zapamätať si duplikáty
                 </string>
@@ -7743,56 +7743,56 @@ true
             </file>
             <file
                 name="history_list_item"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/history_list_item.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/history_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="search_book_contents_list_item"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/search_book_contents_list_item.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/search_book_contents_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="search_book_contents"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/search_book_contents.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/search_book_contents.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="app_picker_list_item"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/app_picker_list_item.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/app_picker_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="search_book_contents_header"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/search_book_contents_header.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/search_book_contents_header.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="capture"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/capture.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/capture.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="share"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/share.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/share.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="bookmark_picker_list_item"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/bookmark_picker_list_item.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/bookmark_picker_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="encode"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/encode.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/encode.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="help"
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/layout/help.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/layout/help.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-uk/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-uk/strings.xml"
                 qualifiers="uk" >
                 <string name="preferences_front_light_off" >Вимкнено
                 </string>
@@ -8040,7 +8040,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-he/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-he/strings.xml"
                 qualifiers="he" >
                 <string name="button_open_browser" >פתח את הדפדפן
                 </string>
@@ -8288,7 +8288,7 @@ true
                 </string>
             </file>
             <file
-                path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/main/res/values-es/strings.xml"
+                path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/main/res/values-es/strings.xml"
                 qualifiers="es" >
                 <string name="bookmark_picker_name" >Marcadores
                 </string>
@@ -8536,10 +8536,10 @@ true
                 </string>
             </file>
         </source>
-        <source path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/build/res/rs/debug" />
+        <source path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/danilo/AndroidStudioProjects/Github/Zxing_Android_Studio/app/src/debug/res" />
+        <source path="/home/danilo/AndroidStudioProjects/Github/zxing_android_studio/app/src/debug/res" />
     </dataSet>
 
 </merger>

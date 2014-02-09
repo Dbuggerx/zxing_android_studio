@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Zxing_Android_Studio.iml" filepath="$PROJECT_DIR$/Zxing_Android_Studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZXing_android_studio.iml" filepath="$PROJECT_DIR$/ZXing_android_studio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing_android_studio.iml" filepath="$PROJECT_DIR$/zxing_android_studio.iml" />
     </modules>
   </component>
 </project>
